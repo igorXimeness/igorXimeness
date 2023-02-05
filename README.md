@@ -1,7 +1,7 @@
 ### olá, eu sou o Igor Ximenes! 
 ### Estudante de 18 anos , apaixonado por técnologia
 
-- 🌱 Atualmente cursando o curso técnico desevolvimento de sistemas da Unicamp
+- 🤖 Atualmente cursando o curso técnico desenvolvimento de sistemas da Unicamp
 
 <div>
   <a href"https://github.com/igorXimeness"> 
